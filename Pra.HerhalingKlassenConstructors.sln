@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.HerhalingKlassenConstructors.WPF", "Pra.HerhalingKlassenConstructors.WPF\Pra.HerhalingKlassenConstructors.WPF.csproj", "{FBB01DF7-B3A4-4701-B448-D949A56A48AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.HerhalingKlassenConstructors.CORE", "Pra.HerhalingKlassenConstructors.CORE\Pra.HerhalingKlassenConstructors.CORE.csproj", "{586C0B19-8812-4010-BEA6-AD981EADD4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB01DF7-B3A4-4701-B448-D949A56A48AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB01DF7-B3A4-4701-B448-D949A56A48AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB01DF7-B3A4-4701-B448-D949A56A48AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB01DF7-B3A4-4701-B448-D949A56A48AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586C0B19-8812-4010-BEA6-AD981EADD4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586C0B19-8812-4010-BEA6-AD981EADD4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586C0B19-8812-4010-BEA6-AD981EADD4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586C0B19-8812-4010-BEA6-AD981EADD4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E4E641-3657-4DEE-8F64-594C6F5D4CA1}
+	EndGlobalSection
+EndGlobal
